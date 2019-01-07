@@ -7,7 +7,7 @@ const Page3 = ({ onRouteChange }) => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/components/Page3.js</code> and save to reload.
         </p>
         <a
           className="App-link"
